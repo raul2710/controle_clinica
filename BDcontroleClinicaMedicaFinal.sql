@@ -7,6 +7,8 @@ CREATE TABLE tb_paciente (
 	fg_ativo BOOL
 );
 
+wadawdawdaw
+
 -- Criando tabela especialidade
 CREATE TABLE tb_especialidade (
 	id SERIAL PRIMARY KEY,
